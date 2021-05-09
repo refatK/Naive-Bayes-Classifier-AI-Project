@@ -31,4 +31,4 @@ Data Preperation/Cleanup was done to help the algorithm work at its best as well
 
 A PDF report was made for this project describing the difficulties implementing the classifier, the accuracy of the classifier, and analysis regarding why the accuracy might be the way it was, as well as approaches used to try and icrease the accuracy.
 
-The report can be accessed [by clicking here](invalid.com).
+The report can be accessed [by clicking here](https://github.com/refatK/Naive-Bayes-Classifier-AI-Project/blob/main/Report%20and%20Analysis.pdf).
